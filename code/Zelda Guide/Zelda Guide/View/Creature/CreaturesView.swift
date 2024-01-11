@@ -15,7 +15,6 @@ struct CreaturesView: View {
 	]
 	
 	var body: some View {
-		
 		NavigationView {
 			ScrollView {
 				LazyVGrid(columns: adaptiveColumns, spacing: 10) {

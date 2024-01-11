@@ -18,6 +18,8 @@ struct CreatureDetailView: View {
 			
 			VStack(spacing: 10) {
 				Text("**ID**: \(vm.creatureDetails?.id ?? 0)")
+				Text("**Name**: \(vm.creatureDetails?.name ?? "")")
+				Text("**Description**: \(vm.creatureDetails?.description ?? "")")
 			}
 		}
 		.onAppear {

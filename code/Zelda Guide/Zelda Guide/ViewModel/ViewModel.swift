@@ -35,7 +35,7 @@ final class ViewModel: ObservableObject {
 	func getDetails(creature: Creature) {
 		let id = getCreatureIndex(creature: creature)
 		
-		self.creatureDetails = DetailCreature(id: 0, category: "", description: "", dlc: false)
+		self.creatureDetails = DetailCreature(id: 0, name: "", category: "", description: "", dlc: false)
 		
 		creatureManager.getDetailedCreature(id: id) { data in
 			DispatchQueue.main.async {

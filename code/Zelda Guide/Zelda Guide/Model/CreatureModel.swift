@@ -21,6 +21,7 @@ struct Creature: Codable, Identifiable, Equatable {
 
 struct DetailCreature: Codable {
 	let id: UInt
+	let name: String
 	let category: String
 	// let common_locations: [String]
 	let description: String
