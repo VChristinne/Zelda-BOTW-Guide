@@ -7,6 +7,15 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		42A06FC32B4FFA550048B2B9 /* equipment.json in Resources */ = {isa = PBXBuildFile; fileRef = 42A06FC22B4FFA550048B2B9 /* equipment.json */; };
+		42A06FC52B4FFA8B0048B2B9 /* Helpers.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A06FC42B4FFA8B0048B2B9 /* Helpers.swift */; };
+		42A06FC72B4FFAC70048B2B9 /* CreatureManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A06FC62B4FFAC70048B2B9 /* CreatureManager.swift */; };
+		42A06FC92B4FFB960048B2B9 /* CreatureModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A06FC82B4FFB960048B2B9 /* CreatureModel.swift */; };
+		42A06FCB2B4FFD6C0048B2B9 /* ViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A06FCA2B4FFD6C0048B2B9 /* ViewModel.swift */; };
+		42A06FCD2B50012E0048B2B9 /* CreatureView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A06FCC2B50012E0048B2B9 /* CreatureView.swift */; };
+		42A06FD02B5019D90048B2B9 /* CreaturesView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A06FCF2B5019D90048B2B9 /* CreaturesView.swift */; };
+		42A06FD22B501ADA0048B2B9 /* CreatureDetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42A06FD12B501ADA0048B2B9 /* CreatureDetailView.swift */; };
+		42A06FD52B503AB50048B2B9 /* creatures.json in Resources */ = {isa = PBXBuildFile; fileRef = 42A06FD42B503AB50048B2B9 /* creatures.json */; };
 		42D026902B4F2A2700095B05 /* Zelda_GuideApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D0268F2B4F2A2700095B05 /* Zelda_GuideApp.swift */; };
 		42D026922B4F2A2700095B05 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 42D026912B4F2A2700095B05 /* ContentView.swift */; };
 		42D026942B4F2A2800095B05 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 42D026932B4F2A2800095B05 /* Assets.xcassets */; };
@@ -14,6 +23,15 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		42A06FC22B4FFA550048B2B9 /* equipment.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = equipment.json; sourceTree = "<group>"; };
+		42A06FC42B4FFA8B0048B2B9 /* Helpers.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Helpers.swift; sourceTree = "<group>"; };
+		42A06FC62B4FFAC70048B2B9 /* CreatureManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatureManager.swift; sourceTree = "<group>"; };
+		42A06FC82B4FFB960048B2B9 /* CreatureModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatureModel.swift; sourceTree = "<group>"; };
+		42A06FCA2B4FFD6C0048B2B9 /* ViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewModel.swift; sourceTree = "<group>"; };
+		42A06FCC2B50012E0048B2B9 /* CreatureView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatureView.swift; sourceTree = "<group>"; };
+		42A06FCF2B5019D90048B2B9 /* CreaturesView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreaturesView.swift; sourceTree = "<group>"; };
+		42A06FD12B501ADA0048B2B9 /* CreatureDetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatureDetailView.swift; sourceTree = "<group>"; };
+		42A06FD42B503AB50048B2B9 /* creatures.json */ = {isa = PBXFileReference; lastKnownFileType = text.json; path = creatures.json; sourceTree = "<group>"; };
 		42D0268C2B4F2A2700095B05 /* Zelda Guide.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Zelda Guide.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		42D0268F2B4F2A2700095B05 /* Zelda_GuideApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Zelda_GuideApp.swift; sourceTree = "<group>"; };
 		42D026912B4F2A2700095B05 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -32,6 +50,66 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		42A06FBC2B4FF4F90048B2B9 /* Data */ = {
+			isa = PBXGroup;
+			children = (
+				42A06FC22B4FFA550048B2B9 /* equipment.json */,
+				42A06FD42B503AB50048B2B9 /* creatures.json */,
+			);
+			path = Data;
+			sourceTree = "<group>";
+		};
+		42A06FBD2B4FF52F0048B2B9 /* Managers */ = {
+			isa = PBXGroup;
+			children = (
+				42A06FC62B4FFAC70048B2B9 /* CreatureManager.swift */,
+			);
+			path = Managers;
+			sourceTree = "<group>";
+		};
+		42A06FBE2B4FF53A0048B2B9 /* View */ = {
+			isa = PBXGroup;
+			children = (
+				42D026912B4F2A2700095B05 /* ContentView.swift */,
+				42A06FCE2B5019BD0048B2B9 /* Creature */,
+			);
+			path = View;
+			sourceTree = "<group>";
+		};
+		42A06FBF2B4FF5530048B2B9 /* Model */ = {
+			isa = PBXGroup;
+			children = (
+				42A06FC82B4FFB960048B2B9 /* CreatureModel.swift */,
+			);
+			path = Model;
+			sourceTree = "<group>";
+		};
+		42A06FC02B4FF55F0048B2B9 /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				42A06FC42B4FFA8B0048B2B9 /* Helpers.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		42A06FC12B4FF5700048B2B9 /* ViewModel */ = {
+			isa = PBXGroup;
+			children = (
+				42A06FCA2B4FFD6C0048B2B9 /* ViewModel.swift */,
+			);
+			path = ViewModel;
+			sourceTree = "<group>";
+		};
+		42A06FCE2B5019BD0048B2B9 /* Creature */ = {
+			isa = PBXGroup;
+			children = (
+				42A06FCC2B50012E0048B2B9 /* CreatureView.swift */,
+				42A06FCF2B5019D90048B2B9 /* CreaturesView.swift */,
+				42A06FD12B501ADA0048B2B9 /* CreatureDetailView.swift */,
+			);
+			path = Creature;
+			sourceTree = "<group>";
+		};
 		42D026832B4F2A2700095B05 = {
 			isa = PBXGroup;
 			children = (
@@ -51,8 +129,13 @@
 		42D0268E2B4F2A2700095B05 /* Zelda Guide */ = {
 			isa = PBXGroup;
 			children = (
+				42A06FBC2B4FF4F90048B2B9 /* Data */,
+				42A06FC02B4FF55F0048B2B9 /* Helpers */,
+				42A06FBD2B4FF52F0048B2B9 /* Managers */,
+				42A06FBF2B4FF5530048B2B9 /* Model */,
+				42A06FBE2B4FF53A0048B2B9 /* View */,
+				42A06FC12B4FF5700048B2B9 /* ViewModel */,
 				42D0268F2B4F2A2700095B05 /* Zelda_GuideApp.swift */,
-				42D026912B4F2A2700095B05 /* ContentView.swift */,
 				42D026932B4F2A2800095B05 /* Assets.xcassets */,
 				42D026952B4F2A2800095B05 /* Preview Content */,
 			);
@@ -125,8 +208,10 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				42A06FD52B503AB50048B2B9 /* creatures.json in Resources */,
 				42D026972B4F2A2800095B05 /* Preview Assets.xcassets in Resources */,
 				42D026942B4F2A2800095B05 /* Assets.xcassets in Resources */,
+				42A06FC32B4FFA550048B2B9 /* equipment.json in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -137,8 +222,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				42A06FC72B4FFAC70048B2B9 /* CreatureManager.swift in Sources */,
+				42A06FCB2B4FFD6C0048B2B9 /* ViewModel.swift in Sources */,
+				42A06FC92B4FFB960048B2B9 /* CreatureModel.swift in Sources */,
 				42D026922B4F2A2700095B05 /* ContentView.swift in Sources */,
 				42D026902B4F2A2700095B05 /* Zelda_GuideApp.swift in Sources */,
+				42A06FD02B5019D90048B2B9 /* CreaturesView.swift in Sources */,
+				42A06FCD2B50012E0048B2B9 /* CreatureView.swift in Sources */,
+				42A06FD22B501ADA0048B2B9 /* CreatureDetailView.swift in Sources */,
+				42A06FC52B4FFA8B0048B2B9 /* Helpers.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
