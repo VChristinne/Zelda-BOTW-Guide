@@ -1,0 +1,745 @@
+{
+	"results": [
+		{
+			"name": "master sword",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/201",
+		},
+		{
+			"name": "tree branch",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/202",
+		},
+		{
+			"name": "torch",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/203",
+		},
+		{
+			"name": "soup ladle",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/204",
+		},
+		{
+			"name": "boomerang",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/205",
+		},
+		{
+			"name": "spring-loaded hammer",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/206",
+		},
+		{
+			"name": "traveler's sword",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/207",
+		},
+		{
+			"name": "soldier's broadsword",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/208",
+		},
+		{
+			"name": "knight's broadsword",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/209",
+		},
+		{
+			"name": "royal broadsword",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/210",
+		},
+		{
+			"name": "forest dweller's sword",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/211",
+		},
+		{
+			"name": "zora sword",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/212",
+		},
+		{
+			"name": "feathered edge",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/213",
+		},
+		{
+			"name": "gerudo scimitar",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/214",
+		},
+		{
+			"name": "moonlight scimitar",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/215",
+		},
+		{
+			"name": "scimitar of the seven",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/216",
+		},
+		{
+			"name": "eightfold blade",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/217",
+		},
+		{
+			"name": "ancient short sword",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/218",
+		},
+		{
+			"name": "rusty broadsword",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/219",
+		},
+		{
+			"name": "royal guard's sword",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/220",
+		},
+		{
+			"name": "flameblade",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/221",
+		},
+		{
+			"name": "frostblade",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/222",
+		},
+		{
+			"name": "thunderblade",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/223",
+		},
+		{
+			"name": "boko club",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/224",
+		},
+		{
+			"name": "spiked boko club",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/225",
+		},
+		{
+			"name": "dragonbone boko club",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/226",
+		},
+		{
+			"name": "lizal boomerang",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/227",
+		},
+		{
+			"name": "lizal forked boomerang",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/228",
+		},
+		{
+			"name": "lizal tri-boomerang",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/229",
+		},
+		{
+			"name": "guardian sword",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/230",
+		},
+		{
+			"name": "guardian sword+",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/231",
+		},
+		{
+			"name": "guardian sword++",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/232",
+		},
+		{
+			"name": "lynel sword",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/233",
+		},
+		{
+			"name": "mighty lynel sword",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/234",
+		},
+		{
+			"name": "savage lynel sword",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/235",
+		},
+		{
+			"name": "fire rod",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/236",
+		},
+		{
+			"name": "meteor rod",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/237",
+		},
+		{
+			"name": "ice rod",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/238",
+		},
+		{
+			"name": "blizzard rod",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/239",
+		},
+		{
+			"name": "lightning rod",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/240",
+		},
+		{
+			"name": "thunderstorm rod",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/241",
+		},
+		{
+			"name": "vicious sickle",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/242",
+		},
+		{
+			"name": "demon carver",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/243",
+		},
+		{
+			"name": "one-hit obliterator",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/244",
+		},
+		{
+			"name": "bokoblin arm",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/245",
+		},
+		{
+			"name": "lizalfos arm",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/246",
+		},
+		{
+			"name": "korok leaf",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/247",
+		},
+		{
+			"name": "farming hoe",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/248",
+		},
+		{
+			"name": "boat oar",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/249",
+		},
+		{
+			"name": "woodcutter's axe",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/250",
+		},
+		{
+			"name": "double axe",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/251",
+		},
+		{
+			"name": "iron sledgehammer",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/252",
+		},
+		{
+			"name": "giant boomerang",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/253",
+		},
+		{
+			"name": "traveler's claymore",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/254",
+		},
+		{
+			"name": "soldier's claymore",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/255",
+		},
+		{
+			"name": "knight's claymore",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/256",
+		},
+		{
+			"name": "royal claymore",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/257",
+		},
+		{
+			"name": "silver longsword",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/258",
+		},
+		{
+			"name": "cobble crusher",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/259",
+		},
+		{
+			"name": "stone smasher",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/260",
+		},
+		{
+			"name": "boulder breaker",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/261",
+		},
+		{
+			"name": "golden claymore",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/262",
+		},
+		{
+			"name": "eightfold longblade",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/263",
+		},
+		{
+			"name": "edge of duality",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/264",
+		},
+		{
+			"name": "ancient bladesaw",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/265",
+		},
+		{
+			"name": "rusty claymore",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/266",
+		},
+		{
+			"name": "royal guard's claymore",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/267",
+		},
+		{
+			"name": "great flameblade",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/268",
+		},
+		{
+			"name": "great frostblade",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/269",
+		},
+		{
+			"name": "great thunderblade",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/270",
+		},
+		{
+			"name": "boko bat",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/271",
+		},
+		{
+			"name": "spiked boko bat",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/272",
+		},
+		{
+			"name": "dragonbone boko bat",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/273",
+		},
+		{
+			"name": "moblin club",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/274",
+		},
+		{
+			"name": "spiked moblin club",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/275",
+		},
+		{
+			"name": "dragonbone moblin club",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/276",
+		},
+		{
+			"name": "ancient battle axe",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/277",
+		},
+		{
+			"name": "ancient battle axe+",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/278",
+		},
+		{
+			"name": "ancient battle axe++",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/279",
+		},
+		{
+			"name": "lynel crusher",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/280",
+		},
+		{
+			"name": "mighty lynel crusher",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/281",
+		},
+		{
+			"name": "savage lynel crusher",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/282",
+		},
+		{
+			"name": "windcleaver",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/283",
+		},
+		{
+			"name": "moblin arm",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/284",
+		},
+		{
+			"name": "wooden mop",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/285",
+		},
+		{
+			"name": "farmer's pitchfork",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/286",
+		},
+		{
+			"name": "fishing harpoon",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/287",
+		},
+		{
+			"name": "throwing spear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/288",
+		},
+		{
+			"name": "traveler's spear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/289",
+		},
+		{
+			"name": "soldier's spear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/290",
+		},
+		{
+			"name": "knight's halberd",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/291",
+		},
+		{
+			"name": "royal halberd",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/292",
+		},
+		{
+			"name": "forest dweller's spear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/293",
+		},
+		{
+			"name": "zora spear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/294",
+		},
+		{
+			"name": "silverscale spear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/295",
+		},
+		{
+			"name": "ceremonial trident",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/296",
+		},
+		{
+			"name": "lightscale trident",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/297",
+		},
+		{
+			"name": "drillshaft",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/298",
+		},
+		{
+			"name": "feathered spear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/299",
+		},
+		{
+			"name": "gerudo spear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/300",
+		},
+		{
+			"name": "serpentine spear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/301",
+		},
+		{
+			"name": "ancient spear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/302",
+		},
+		{
+			"name": "rusty halberd",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/303",
+		},
+		{
+			"name": "royal guard's spear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/304",
+		},
+		{
+			"name": "flamespear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/305",
+		},
+		{
+			"name": "frostspear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/306",
+		},
+		{
+			"name": "thunderspear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/307",
+		},
+		{
+			"name": "boko spear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/308",
+		},
+		{
+			"name": "spiked boko spear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/309",
+		},
+		{
+			"name": "dragonbone boko spear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/310",
+		},
+		{
+			"name": "moblin spear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/311",
+		},
+		{
+			"name": "spiked moblin spear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/312",
+		},
+		{
+			"name": "dragonbone moblin spear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/313",
+		},
+		{
+			"name": "lizal spear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/314",
+		},
+		{
+			"name": "enhanced lizal spear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/315",
+		},
+		{
+			"name": "forked lizal spear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/316",
+		},
+		{
+			"name": "guardian spear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/317",
+		},
+		{
+			"name": "guardian spear+",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/318",
+		},
+		{
+			"name": "guardian spear++",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/319",
+		},
+		{
+			"name": "lynel spear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/320",
+		},
+		{
+			"name": "mighty lynel spear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/321",
+		},
+		{
+			"name": "savage lynel spear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/322",
+		},
+		{
+			"name": "bow of light",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/323",
+		},
+		{
+			"name": "wooden bow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/324",
+		},
+		{
+			"name": "traveler's bow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/325",
+		},
+		{
+			"name": "soldier's bow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/326",
+		},
+		{
+			"name": "knight's bow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/327",
+		},
+		{
+			"name": "royal bow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/328",
+		},
+		{
+			"name": "forest dweller's bow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/329",
+		},
+		{
+			"name": "silver bow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/330",
+		},
+		{
+			"name": "swallow bow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/331",
+		},
+		{
+			"name": "falcon bow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/332",
+		},
+		{
+			"name": "great eagle bow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/333",
+		},
+		{
+			"name": "golden bow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/334",
+		},
+		{
+			"name": "phrenic bow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/335",
+		},
+		{
+			"name": "ancient bow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/336",
+		},
+		{
+			"name": "royal guard's bow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/337",
+		},
+		{
+			"name": "boko bow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/338",
+		},
+		{
+			"name": "spiked boko bow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/339",
+		},
+		{
+			"name": "dragon bone boko bow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/340",
+		},
+		{
+			"name": "lizal bow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/341",
+		},
+		{
+			"name": "strengthened lizal bow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/342",
+		},
+		{
+			"name": "steel lizal bow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/343",
+		},
+		{
+			"name": "lynel bow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/344",
+		},
+		{
+			"name": "mighty lynel bow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/345",
+		},
+		{
+			"name": "savage lynel bow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/346",
+		},
+		{
+			"name": "duplex bow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/347",
+		},
+		{
+			"name": "arrow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/348",
+		},
+		{
+			"name": "fire arrow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/349",
+		},
+		{
+			"name": "ice arrow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/350",
+		},
+		{
+			"name": "shock arrow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/351",
+		},
+		{
+			"name": "bomb arrow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/352",
+		},
+		{
+			"name": "ancient arrow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/353",
+		},
+		{
+			"name": "hylian shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/354",
+		},
+		{
+			"name": "pot lid",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/355",
+		},
+		{
+			"name": "wooden shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/356",
+		},
+		{
+			"name": "emblazoned shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/357",
+		},
+		{
+			"name": "hunter's shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/358",
+		},
+		{
+			"name": "fisherman's shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/359",
+		},
+		{
+			"name": "traveler's shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/360",
+		},
+		{
+			"name": "soldier's shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/361",
+		},
+		{
+			"name": "knight's shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/362",
+		},
+		{
+			"name": "royal shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/363",
+		},
+		{
+			"name": "forest dweller's shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/364",
+		},
+		{
+			"name": "silver shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/365",
+		},
+		{
+			"name": "kite shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/366",
+		},
+		{
+			"name": "gerudo shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/367",
+		},
+		{
+			"name": "radiant shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/368",
+		},
+		{
+			"name": "daybreaker",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/369",
+		},
+		{
+			"name": "shield of the mind's eye",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/370",
+		},
+		{
+			"name": "ancient shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/371",
+		},
+		{
+			"name": "rusty shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/372",
+		},
+		{
+			"name": "royal guard's shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/373",
+		},
+		{
+			"name": "boko shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/374",
+		},
+		{
+			"name": "spiked boko shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/375",
+		},
+		{
+			"name": "dragonbone boko shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/376",
+		},
+		{
+			"name": "lizal shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/377",
+		},
+		{
+			"name": "reinforced lizal shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/378",
+		},
+		{
+			"name": "steel lizal shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/379",
+		},
+		{
+			"name": "guardian shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/380",
+		},
+		{
+			"name": "guardian shield+",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/381",
+		},
+		{
+			"name": "guardian shield++",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/382",
+		},
+		{
+			"name": "lynel shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/383",
+		},
+		{
+			"name": "mighty lynel shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/384",
+		},
+		{
+			"name": "savage lynel shield",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/385",
+		},
+		
+	]
+}

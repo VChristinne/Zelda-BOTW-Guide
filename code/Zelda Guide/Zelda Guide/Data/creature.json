@@ -1,0 +1,337 @@
+{
+	"results": [
+		{
+			"name": "horse",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/1",
+		},
+		{
+			"name": "giant horse",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/2",
+		},
+		{
+			"name": "white horse",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/3",
+		},
+		{
+			"name": "lord of the mountain",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/4",
+		},
+		{
+			"name": "stalhorse",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/5",
+		},
+		{
+			"name": "donkey",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/6",
+		},
+		{
+			"name": "sand seal",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/7",
+		},
+		{
+			"name": "patricia",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/8",
+		},
+		{
+			"name": "bushy-tailed squirrel",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/9",
+		},
+		{
+			"name": "woodland boar",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/10",
+		},
+		{
+			"name": "red-tusked boar",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/11",
+		},
+		{
+			"name": "mountain goat",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/12",
+		},
+		{
+			"name": "white goat",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/13",
+		},
+		{
+			"name": "mountain buck",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/14",
+		},
+		{
+			"name": "mountain doe",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/15",
+		},
+		{
+			"name": "water buffalo",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/16",
+		},
+		{
+			"name": "hateno cow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/17",
+		},
+		{
+			"name": "highland sheep",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/18",
+		},
+		{
+			"name": "grassland fox",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/19",
+		},
+		{
+			"name": "snowcoat fox",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/20",
+		},
+		{
+			"name": "maraudo wolf",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/21",
+		},
+		{
+			"name": "wasteland coyote",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/22",
+		},
+		{
+			"name": "cold-footed wolf",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/23",
+		},
+		{
+			"name": "tabantha moose",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/24",
+		},
+		{
+			"name": "great-horned rhinoceros",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/25",
+		},
+		{
+			"name": "honeyvore bear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/26",
+		},
+		{
+			"name": "grizzlemaw bear",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/27",
+		},
+		{
+			"name": "hylian retriever",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/28",
+		},
+		{
+			"name": "blupee",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/29",
+		},
+		{
+			"name": "common sparrow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/30",
+		},
+		{
+			"name": "red sparrow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/31",
+		},
+		{
+			"name": "blue sparrow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/32",
+		},
+		{
+			"name": "rainbow sparrow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/33",
+		},
+		{
+			"name": "sand sparrow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/34",
+		},
+		{
+			"name": "golden sparrow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/35",
+		},
+		{
+			"name": "wood pigeon",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/36",
+		},
+		{
+			"name": "rainbow pigeon",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/37",
+		},
+		{
+			"name": "hotfeather pigeon",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/38",
+		},
+		{
+			"name": "white pigeon",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/39",
+		},
+		{
+			"name": "mountain crow",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/40",
+		},
+		{
+			"name": "bright-chested duck",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/41",
+		},
+		{
+			"name": "blue-winged heron",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/42",
+		},
+		{
+			"name": "pink heron",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/43",
+		},
+		{
+			"name": "islander hawk",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/44",
+		},
+		{
+			"name": "seagull",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/45",
+		},
+		{
+			"name": "eldin ostrich",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/46",
+		},
+		{
+			"name": "cucco",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/47",
+		},
+		{
+			"name": "hyrule bass",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/48",
+		},
+		{
+			"name": "hearty bass",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/49",
+		},
+		{
+			"name": "staminoka bass",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/50",
+		},
+		{
+			"name": "hearty salmon",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/51",
+		},
+		{
+			"name": "chillfin trout",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/52",
+		},
+		{
+			"name": "sizzlefin trout",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/53",
+		},
+		{
+			"name": "voltfin trout",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/54",
+		},
+		{
+			"name": "stealthfin trout",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/55",
+		},
+		{
+			"name": "mighty carp",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/56",
+		},
+		{
+			"name": "armored carp",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/57",
+		},
+		{
+			"name": "sanke carp",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/58",
+		},
+		{
+			"name": "mighty porgy",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/59",
+		},
+		{
+			"name": "armored porgy",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/60",
+		},
+		{
+			"name": "sneaky river snail",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/61",
+		},
+		{
+			"name": "hearty blueshell snail",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/62",
+		},
+		{
+			"name": "razorclaw crab",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/63",
+		},
+		{
+			"name": "ironshell crab",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/64",
+		},
+		{
+			"name": "bright-eyed crab",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/65",
+		},
+		{
+			"name": "fairy",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/66",
+		},
+		{
+			"name": "winterwing butterfly",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/67",
+		},
+		{
+			"name": "summerwing butterfly",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/68",
+		},
+		{
+			"name": "thunderwing butterfly",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/69",
+		},
+		{
+			"name": "smotherwing butterfly",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/70",
+		},
+		{
+			"name": "cold darner",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/71",
+		},
+		{
+			"name": "warm darner",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/72",
+		},
+		{
+			"name": "electric darner",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/73",
+		},
+		{
+			"name": "restless cricket",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/74",
+		},
+		{
+			"name": "bladed rhino beetle",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/75",
+		},
+		{
+			"name": "rugged rhino beetle",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/76",
+		},
+		{
+			"name": "energetic rhino beetle",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/77",
+		},
+		{
+			"name": "sunset firefly",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/78",
+		},
+		{
+			"name": "hot-footed frog",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/79",
+		},
+		{
+			"name": "tireless frog",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/80",
+		},
+		{
+			"name": "hightail lizard",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/81",
+		},
+		{
+			"name": "hearty lizard",
+			"url": "https://botw-compendium.herokuapp.com/api/v3/compendium/entry/82",
+		},
+		{
+			"name"": fireproof lizard",
+			"url"": https://botw-compendium.herokuapp.com/api/v3/compendium/entry/83",
+		},
+		
+	]
+}
